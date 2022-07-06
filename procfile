@@ -1,1 +1,1 @@
-web: gunicorn mikelegalsite.wsgi: application --log-file -
+web: gunicorn mikelegalsite.wsgi --log-file 
